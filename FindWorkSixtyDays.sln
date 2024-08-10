@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Theory", "Theory", "{F91371B0-41DF-44B7-A2C8-1168448BFE5D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Practice", "Practice", "{31C2225F-B834-4D57-8A10-6C96A2659D61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindWorkSixtyDays.Multithreading", "FindWorkSixtyDays.Multithreading\FindWorkSixtyDays.Multithreading.csproj", "{209966B3-8FEC-451F-98DA-7230D94F5CEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{209966B3-8FEC-451F-98DA-7230D94F5CEB} = {F91371B0-41DF-44B7-A2C8-1168448BFE5D}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{209966B3-8FEC-451F-98DA-7230D94F5CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{209966B3-8FEC-451F-98DA-7230D94F5CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{209966B3-8FEC-451F-98DA-7230D94F5CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{209966B3-8FEC-451F-98DA-7230D94F5CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
